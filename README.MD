@@ -8,6 +8,7 @@ Day 23 of 100 Days of code
 3. Turtle can also detect whether it got hit by a car. When it does, it's Game Over
 4. Turtle starts at the bottom of the screen
 5. Cars are spawned randomly on the right side of the screen
-6. Car moves at same speed with other cars, but the speed will increase as level increases
-7. Scoreboard display current level, and level increases each time turtle touches the top of the screen
-8. Scoreboard can also display Game Over once the turtle was hit by a car
+6. Cars will also be spawned at the probability of 1/6.
+7. Car moves at same speed with other cars, but the speed will increase as level increases
+8. Scoreboard display current level, and level increases each time turtle touches the top of the screen
+9. Scoreboard can also display Game Over once the turtle was hit by a car
